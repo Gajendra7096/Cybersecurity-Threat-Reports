@@ -56,7 +56,7 @@ Future work includes:
 
 ## 🏷️ Tags
 
-`cybersecurity` `ethical-hacking` `internship` `threat-report` `cloud-security` `phishing` `IoT` `zero-day` `supply-chain`
+`cybersecurity` `ethical-hacking` `internship` `maincraft-technology` `threat-report` `cloud-security` `phishing` `IoT` `zero-day` `supply-chain`
 
 ---
 
